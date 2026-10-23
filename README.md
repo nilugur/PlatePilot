@@ -1,4 +1,4 @@
-# Kıvanç Tatlıtuğ Wannabes
+# PlatePilot
 
 A Django web application that helps users follow their diet and exercise plans. Users can log their meals and workouts, and the app tracks their daily and weekly caloric intake and expenditure based on personal information such as age, weight, height, and activity level. The app also gives clients personalized food recommendations based on other users with a similar profile.
 
